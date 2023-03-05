@@ -1,0 +1,13 @@
+name = "CraftPresence"
+filename = "CraftPresence-2.0.0-beta.2+1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1280445d97ef523ea3989ee9c2e9182cbd7d4a55"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4410398
+project-id = 297038
