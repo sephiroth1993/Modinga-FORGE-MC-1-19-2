@@ -523,7 +523,7 @@ metafile = true
 
 [[files]]
 file = "mods/apotheosis.pw.toml"
-hash = "27f7d8717daf931f1295fac200904bdfee985936a427b4ef4a286ddd34308594"
+hash = "0c187c8c2e10039a89a9c665fe9426d0217e8737e35dab2fd2b9c6cc4e263e64"
 metafile = true
 
 [[files]]
@@ -563,7 +563,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf.pw.toml"
-hash = "e7a31bca2c89624f212365c8ba63364652ae7163af1b0d6effafb4f1b27c2d42"
+hash = "9c6f89d65804f3f09d774105c6a9afda57c949f7c0610689eb9c09de8cc3f1b8"
 metafile = true
 
 [[files]]
@@ -579,6 +579,11 @@ metafile = true
 [[files]]
 file = "mods/catalogue.pw.toml"
 hash = "b3c16f0a62d3cd60e7db213c748920aa03a8dfd9d731a2723f0dcd59515b562b"
+metafile = true
+
+[[files]]
+file = "mods/chisels-bits.pw.toml"
+hash = "c04bec90ab6272b34e95298b429d2189c9e29a19f1497c1755d02c78ccebfa20"
 metafile = true
 
 [[files]]
@@ -683,7 +688,7 @@ metafile = true
 
 [[files]]
 file = "mods/guard-villagers.pw.toml"
-hash = "94864cedff27bb7eeca9624a8b53db7483180f06e0fd71b49bf24603181efdca"
+hash = "90ec3d18448874a15af83c1eefee4296b324292eb4b7d1f23a97922f7187e116"
 metafile = true
 
 [[files]]
@@ -693,7 +698,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-paintings.pw.toml"
-hash = "3572d38a9ffe75f2154f4386ac8c6039af3321812d82541b876fe1880155a77f"
+hash = "f4a81ac41c31bdcc4cd685330c2c6faa3a7bcf923ac18cb559da46f748c628d7"
 metafile = true
 
 [[files]]
@@ -713,7 +718,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "42a7d4840c97d0c5edbeace9ae52190b1cbdfb583be783ea4e0aa6e0b28ef6b6"
+hash = "2b7ad9503a31d7b4be0f53b8d5b07761983646646fda873c7277b04982f5ecfb"
 metafile = true
 
 [[files]]
@@ -733,7 +738,7 @@ metafile = true
 
 [[files]]
 file = "mods/l_ender-s-cataclysm.pw.toml"
-hash = "bf1473bafe81309acb7ef15466334332980adb9b7e8d481a4159baea016b5598"
+hash = "6b854e977f118b4935ec5c3a326aeeb761144520b74b3d3c2eeb248911497e7a"
 metafile = true
 
 [[files]]
@@ -803,7 +808,7 @@ metafile = true
 
 [[files]]
 file = "mods/placebo.pw.toml"
-hash = "2a3d0a097540d53896e6eb9ca951ab54b525b73f40f248b68986faa4a1bf4d62"
+hash = "c0b9b0aa4259472773ae10d6933563ba8c22ec54095c6c53f45ac260ec01ebc8"
 metafile = true
 
 [[files]]
@@ -823,7 +828,7 @@ metafile = true
 
 [[files]]
 file = "mods/quark.pw.toml"
-hash = "dee2cea7b669549e56d7a14b7d81fc5b593669f2683d1dd332f0a574dfb312e7"
+hash = "340220de7bc4d0542c8e3ace4696d60b5b5f7fa19cd9aee3c9870d8acae36de5"
 metafile = true
 
 [[files]]
@@ -843,7 +848,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "1cc126c41944a119596c10b694c64a064e0628df7c714d7e3bda2734ee083ac6"
+hash = "d0abada2d852dd7506dce478ec8d81d24a8e82cbfe6013a29ed53d4cfabf41ac"
 metafile = true
 
 [[files]]
@@ -878,7 +883,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "8a4e7230cc2a1dd6f7d96b557dc146392cead2c9946895322f37d7ce37a2c7f2"
+hash = "731bd7c4f118f19f8c3dd954ce4021bc1d5072169d8add1c23ad831502e25fb0"
 metafile = true
 
 [[files]]
