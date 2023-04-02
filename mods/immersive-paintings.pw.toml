@@ -1,13 +1,13 @@
 name = "Immersive Paintings [Fabric/Forge]"
-filename = "immersive_paintings-0.5.0+1.19.2-forge.jar"
+filename = "immersive_paintings-0.5.1+1.19.2-forge.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "751842bb850949435ea47f7fc90d0310e03074ee"
+hash = "2487869fa3663272d0a926991f39db0b5c272ecd"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4432735
+file-id = 4441071
 project-id = 639584
