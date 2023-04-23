@@ -537,7 +537,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "9332d7895d9a9d8827aa4de02b1c96884fec9402cc66bd90e64f64bfc0c5f814"
+hash = "ff7d357e24271276700461907a889f1d846cb647d6831bf3a294a59eb8d0756c"
 metafile = true
 
 [[files]]
@@ -617,7 +617,7 @@ metafile = true
 
 [[files]]
 file = "mods/craftpresence.pw.toml"
-hash = "b665b1f4a46eaa64bf3d3f42ff020d398923c8da6bbb3ede18b2f1c85f9a28e8"
+hash = "cb38bfb6f6c6d6cf6847d635dc34b7b1aab74d091e9ae7e696e16bfe8c317270"
 metafile = true
 
 [[files]]
@@ -637,7 +637,7 @@ metafile = true
 
 [[files]]
 file = "mods/curios.pw.toml"
-hash = "ca21d903bd9eb0b338e88da5edad929a66ac01cca6d52c92c1855f45f8728178"
+hash = "350ab620f74b8385cc5f172bb445296a51e005d707e3a726e870b28132529e53"
 metafile = true
 
 [[files]]
@@ -647,7 +647,7 @@ metafile = true
 
 [[files]]
 file = "mods/dungeons-plus.pw.toml"
-hash = "9c734bb488e9916061ad7b97880c26b609ff0ff80e2f5bc955aeed8e56b08cac"
+hash = "5769751915286a004dec2204f51cba385efbefd4525d151b65afef9031b9c11b"
 metafile = true
 
 [[files]]
@@ -672,7 +672,7 @@ metafile = true
 
 [[files]]
 file = "mods/fastworkbench.pw.toml"
-hash = "848a019486e5abcd59e4db96779e5c76e30b90bcdf212028dddfa61c90476c1a"
+hash = "5db298a5768d41bc516ac521d95588ff074e5af6bd17567628d10f319ebd85ae"
 metafile = true
 
 [[files]]
@@ -682,7 +682,7 @@ metafile = true
 
 [[files]]
 file = "mods/ftb-library-forge.pw.toml"
-hash = "83f64bcfc2c9bb8b1ac7f6ba15008f00e91ec8ff2184d93a5100595326f4c398"
+hash = "26803327926f5c9293df6c46661c55e8f3ad21c8250e8121a6986dcb1c783218"
 metafile = true
 
 [[files]]
@@ -702,7 +702,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-paintings.pw.toml"
-hash = "a7d2e8526d027a64d7d768bcab0701e1be949d5103459a7133ff3c9111692b8b"
+hash = "e78cc3db67e4a52d5504346540eee09a158bf248446b556e7ad5a0a073ac6e3c"
 metafile = true
 
 [[files]]
@@ -727,12 +727,12 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "e650e0a0179c4878980dba815366b3b7e017a7b4f65cb5d6138bae6d02bac065"
+hash = "ec517326311870553f501b1cea0a453b67419a2663a3d3c4eb3422a0eb21f67c"
 metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "cd4aeeb3c7eb8f29f5c07d9a74f70d14311e1d6093633a2d4b5c926c931ee0e5"
+hash = "d5e3f7a5eabe0f06a6ef5bbd5ccb3ef787fd4cceb3e018d0735475d48e7b4b34"
 metafile = true
 
 [[files]]
@@ -742,7 +742,7 @@ metafile = true
 
 [[files]]
 file = "mods/l_ender-s-cataclysm.pw.toml"
-hash = "83ac8dc53a61ab80dc21c17f95dfc8eae84ea432b7718c5d866b0c14bf21cf67"
+hash = "57c362d96a687f5c316fe8d2400e084b3056eafc36cf239602f0a782879dab3a"
 metafile = true
 
 [[files]]
@@ -812,7 +812,7 @@ metafile = true
 
 [[files]]
 file = "mods/placebo.pw.toml"
-hash = "e6da4b32eaf7fb4ea61b2c0d66b816b19bef704385378c4125975a0b08a008e1"
+hash = "cb0af91d7b5f99b46022e3af2ef7e128028f6a2f91feb0a8f4fa22e9556f30b3"
 metafile = true
 
 [[files]]
@@ -832,12 +832,12 @@ metafile = true
 
 [[files]]
 file = "mods/quark.pw.toml"
-hash = "d374069650262c89f899a79161835209f2f3a3be17dd9da6b7029dd89efc09d0"
+hash = "989994b423834b2590875234f2f0ffc06a455e6e3e122cd4537bec014f2b05f6"
 metafile = true
 
 [[files]]
 file = "mods/reds-more-structures.pw.toml"
-hash = "383fbfba8927bc1bb3a0f8451ec7ee69bfd3d2fb072659eed81f66638845002c"
+hash = "357795173d91ffbf9ccf4474711f9a4ceae210ae7582644734b364a9faa51aef"
 metafile = true
 
 [[files]]
@@ -852,7 +852,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "7355b698e9194d3d34f5b1cd561667e2d04b11c6008ef9232928367913449399"
+hash = "8b90af7acd60fbdf3f19861e794b7dc2d2c749480ccca7409aa0ea6e7752f7df"
 metafile = true
 
 [[files]]
@@ -862,17 +862,17 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "6f0ed9e6016d79cae58dee2808e2d42e30b25b270b51de85885986e100e2fe4d"
+hash = "18f9d2a42bfa0d4c33e545d0e04f03ab8e92ee379cdab071d87ac56c330ffc69"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "13ea574887cc900978b7f6561f02c00b154bc3851d57d38a5640ee0d2e167d7c"
+hash = "b5bfa90fbf8d374b91ad1badf40ab9077ab6a1790a9c673cc8f07ea9a709b6b0"
 metafile = true
 
 [[files]]
 file = "mods/stalwart-dungeons.pw.toml"
-hash = "48db8caa25a9eb4872c8a4066421599a7e56665624421e7c334a193e7abbdeb9"
+hash = "f21064ed8cbc59468af3ae72302f34c2d067106e3b092bf259cfb1769e16679b"
 metafile = true
 
 [[files]]
@@ -882,12 +882,12 @@ metafile = true
 
 [[files]]
 file = "mods/structure-gel-api.pw.toml"
-hash = "69e0946bfa36ce003d3b3582b5332ea0b89541eefe6083f9cdde1e4f9b02d527"
+hash = "58356491ca3d573b1e786df93f0ed3072143747d7e660510d8dcd2fba94e15d3"
 metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "c3f4f6f530b8abce0297d601c3db1586e2d732245aa6d74049e3bd07f1c26b49"
+hash = "6b5459292f51da149d1a9b86ee397e6f979909aa2e8fb0f7643eb15e62a31f29"
 metafile = true
 
 [[files]]
@@ -917,7 +917,7 @@ metafile = true
 
 [[files]]
 file = "mods/when-dungeons-arise.pw.toml"
-hash = "357eaf83f5615032d4d677b4398584db5ef240d2d44b9d0433e546e1c20996f6"
+hash = "7d2e0273da8d791d99e5f3325f9e8abef30ce2e1e55b970dda863d0c54827235"
 metafile = true
 
 [[files]]
