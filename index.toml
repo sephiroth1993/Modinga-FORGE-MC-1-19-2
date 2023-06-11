@@ -537,7 +537,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "05160897f10cb9a1e1453e9409d9a089574ceffa9e6f232bbb9714fdbcaa9296"
+hash = "e81baa549b913cf7d30a730d18846ff41aa833928328e3e1f2ec0686d815cd47"
 metafile = true
 
 [[files]]
@@ -567,12 +567,12 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf.pw.toml"
-hash = "753f69cb17dcd9eb710dce76562e1b43dd69452857643553d41016609ec4348b"
+hash = "3094a52897889217e37bf772fa43727fc4a7f81d0dc9a5e25be933630192bcbb"
 metafile = true
 
 [[files]]
 file = "mods/botania.pw.toml"
-hash = "b50846cceb81d04810211f635ff6c203fef7d8ba621a867edce4c51cadc0fead"
+hash = "b28c3da3ee3ca475f8c79cbc4e8eb2f5fd44ab488bc14bfdf1fc04dc6f6e67c4"
 metafile = true
 
 [[files]]
@@ -592,7 +592,7 @@ metafile = true
 
 [[files]]
 file = "mods/citadel.pw.toml"
-hash = "5a822cc5aa99b8c6260fbff4671a1f006361bfeb10edc0b0180ffdd99e819b9d"
+hash = "36b059a08858d8a67c051da3ef5dbaf71787482156521c37c8284a36230e6bcd"
 metafile = true
 
 [[files]]
@@ -617,7 +617,7 @@ metafile = true
 
 [[files]]
 file = "mods/craftpresence.pw.toml"
-hash = "5ee67c6190af253ab05d2f37be149e9ab18e153fa546129286f44ca0e9ff179e"
+hash = "abf71c2dbc1338e860dbf68d2cd0b85d534ea367fecfe40b5b25465a233c648b"
 metafile = true
 
 [[files]]
@@ -632,7 +632,7 @@ metafile = true
 
 [[files]]
 file = "mods/cucumber.pw.toml"
-hash = "def8fc59973497e3b9d8f3b52aedd717e1bad8f9d769d3efaa9a1a68f3f17af8"
+hash = "7de4d45649ea25e84a3c2b7f978f2d2610925cb2b40695523fea54a8b5c9bc13"
 metafile = true
 
 [[files]]
@@ -672,7 +672,7 @@ metafile = true
 
 [[files]]
 file = "mods/fastworkbench.pw.toml"
-hash = "7d745a742dc27ab13315b8a9a114648e26546cbf97934e135edead07debec9b3"
+hash = "05ba0e63b05f5b98111cfbe0b16411688b6ff7ffd675e2fd0ec5249709cc5b97"
 metafile = true
 
 [[files]]
@@ -692,7 +692,7 @@ metafile = true
 
 [[files]]
 file = "mods/guard-villagers.pw.toml"
-hash = "5ad71b3a3922a19ccf177816afc723187bc2fa02e46dd81bdde6c36509582898"
+hash = "d50c3d071011a3b7fa8689c8acf61de5a3dee35bd25ad54cefd996abf34bf4cb"
 metafile = true
 
 [[files]]
@@ -762,7 +762,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecraftcapes-mod.pw.toml"
-hash = "8be08335de6886fb399dc44104cc5c04ab27fa5bf948141d280cd6211f423eaf"
+hash = "aa4dbab7b1bc85c475bf1aff75ef0c356b130a0a604ae7ddb682e5851fd01a1b"
 metafile = true
 
 [[files]]
@@ -772,12 +772,12 @@ metafile = true
 
 [[files]]
 file = "mods/mystical-agradditions.pw.toml"
-hash = "5d36e25ca8e60f9ed6fd419d0942a657272de438ab390b846b4ed43cb216c2a4"
+hash = "9499ba5894da3aba39057a1de569df1909be89a2b500d6395b1273d5b99bf56c"
 metafile = true
 
 [[files]]
 file = "mods/mystical-agriculture.pw.toml"
-hash = "1a6d50d5c6c731200d3ac04fef008e292434ee521f6e5aafd7c35274f7728660"
+hash = "a99928ce0ae3b3172669e8a43a30256009592ac5e9cd127e5da7d6d3eca65451"
 metafile = true
 
 [[files]]
@@ -792,7 +792,7 @@ metafile = true
 
 [[files]]
 file = "mods/oculus.pw.toml"
-hash = "a2b104bde74a2cda382069ab1eeef7f67dee4612d5e21fefe248bc9166f4e3ad"
+hash = "e8e0377d44d43a46f80b8cc0cbfeb059504c361d36705cda5a79d6b42c85a0ad"
 metafile = true
 
 [[files]]
@@ -847,12 +847,12 @@ metafile = true
 
 [[files]]
 file = "mods/rubidium.pw.toml"
-hash = "8cb0809866a8362fd785e9b5c31f3020076a440247ad64730418c0c013305626"
+hash = "41aa77632a5ed56e02b6c66ecc8c2996d8738e8a6c8acbbdc3973a2547ac570c"
 metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "5699c0f9c7aae8254080b512f9dff5822fc6b82b9541b48f363b2810cf47119b"
+hash = "48d40b4ff0fc80915472f0ae0d53b4a370e973c2b09e449d0d3d4140b3f6f47e"
 metafile = true
 
 [[files]]
@@ -862,12 +862,12 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "5b1a78ae497977fdd1a0f9068368f4806bcd8cc627bfa6c947e0f5fcec2961be"
+hash = "f4c06b76d30313faed5afba11f2e1b863208f119b6a373e3a29021d110a3cf27"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "db9bb383bfa9ced1286549b5b0c2c4a2979d5e4ab39c6e86d7e01bf690f9b7a8"
+hash = "0f2614f177b9a36a332bc30f0d7500d3866dc0ed5f4b6963beadfab88554175c"
 metafile = true
 
 [[files]]
@@ -887,7 +887,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "e793fe8c6bbd8e94deb100f5053c9c3231511fd764fde34d43694fa37a0d6d6b"
+hash = "0c7fe26a67dd87d721de2c900ca7f3c8813efd09a78a2a61a124d1ddfb05cb68"
 metafile = true
 
 [[files]]
