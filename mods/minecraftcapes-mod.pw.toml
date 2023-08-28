@@ -1,13 +1,13 @@
 name = "MinecraftCapes Mod"
-filename = "MinecraftCapes Forge 1.19.2-12.3.5.jar"
+filename = "MinecraftCapes Forge 1.19.2-12.3.6.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "4f5bcbf363a52489ff6e9e371c915fb043d86e94"
+hash = "bb58a1b07d171b152cf30ecec368a61a2623b664"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4565438
+file-id = 4634299
 project-id = 359836

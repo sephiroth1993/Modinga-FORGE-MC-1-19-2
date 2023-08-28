@@ -1,13 +1,13 @@
 name = "Mystical Agriculture"
-filename = "MysticalAgriculture-1.19.2-6.0.9.jar"
+filename = "MysticalAgriculture-1.19.2-6.0.11.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "941da534daa83fe5247e96928db420529d1ced07"
+hash = "420c8124727ced794aacc2487037fcc52d986d9a"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4576542
+file-id = 4634093
 project-id = 246640

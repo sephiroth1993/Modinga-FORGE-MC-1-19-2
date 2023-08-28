@@ -1,13 +1,13 @@
 name = "Modinga"
 author = "Sephiroth1993"
-version = "0.2.5"
+version = "0.2.9"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "9f14cc095d2ae5e62cc0a16ea24f3c0b5b170a4145bdedd1562a50432998a3d8"
+hash = "fc076fb0b13c051b61e7b579953d689c5429638444d1da877c77b181b2dbfb5d"
 
 [versions]
-forge = "43.2.6"
+forge = "43.2.21"
 minecraft = "1.19.2"
