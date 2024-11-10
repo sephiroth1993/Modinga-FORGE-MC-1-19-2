@@ -687,7 +687,7 @@ metafile = true
 
 [[files]]
 file = "mods/curios.pw.toml"
-hash = "5f25fc7780b589577a825f8e5f3063eda67c6057052f76054bd7620901a67ea6"
+hash = "fc002eee04583c5cc5789aeff36d8fa5df384fbe1aaeb6271c693f038ca575c7"
 metafile = true
 
 [[files]]
@@ -716,6 +716,11 @@ hash = "6de56f32d870ea6c4f901bb298e986a7c4245fff81737363bd48b5bc9f2ca48c"
 metafile = true
 
 [[files]]
+file = "mods/entityculling.pw.toml"
+hash = "2df773e7b7659f53640f79e1e2b2e1de0df20277dc61de90a1d12881116cdc49"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "4c83a8b018fcc8b8ab1023034588db7b3d69cbcac1677d1d9304ed0c1718ddd5"
 metafile = true
@@ -728,6 +733,11 @@ metafile = true
 [[files]]
 file = "mods/fastworkbench.pw.toml"
 hash = "e737d8ff44e96f214aeba03c568969c810008cdf256cdc5d83d4820d3c2cbc8c"
+metafile = true
+
+[[files]]
+file = "mods/ferritecore.pw.toml"
+hash = "0c820f51223c9f36609b2ab9c2cfe84c9f8920baee03d27535470e41330b9a76"
 metafile = true
 
 [[files]]
@@ -797,7 +807,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "708c9eb59187d616007ba99f8f2ecadb87f5df0bf7dbe63df940fbcf7236e02c"
+hash = "7befc4718b205d760fedcef1aa160b3f7ebde248774f4a1eb79e0e2d352afe89"
 metafile = true
 
 [[files]]
@@ -812,7 +822,7 @@ metafile = true
 
 [[files]]
 file = "mods/l_ender-s-cataclysm.pw.toml"
-hash = "6f001701d68e0d48802d86bab3c4dc05118c8a77b1833722d53b0eb7a3e27469"
+hash = "437044affae1dce28545323d64cb0940a428e198c706c873bce15eceec5522cc"
 metafile = true
 
 [[files]]
@@ -848,6 +858,11 @@ metafile = true
 [[files]]
 file = "mods/minecraftcapes-mod.pw.toml"
 hash = "ee3f92dc9c86f7ae983c480cbf3eaa9b16dae2a71cf14cc8569ca6ffc535983b"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "d5ebd6a072c380a9872729df7c48021f5f187329f51afbfcee43e952c49f6d08"
 metafile = true
 
 [[files]]
@@ -982,7 +997,7 @@ metafile = true
 
 [[files]]
 file = "mods/skin-layers-3d.pw.toml"
-hash = "0d5eee5e4c3e671824c66afbdd3556c047eef026330a3103705a398ebacfdc9f"
+hash = "d06e06fa08ee8b1c60d705bb6f883e1c9ffd9f7019212eb26a2fc95ce2848887"
 metafile = true
 
 [[files]]
@@ -997,12 +1012,17 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "7d375c0c9cbed854bc8acb764ada87d4b6791a0bf1d17d65274cd2519a8716e0"
+hash = "ae167d4ca249afe94c9aceaef7b1a784dea94bbd5711b2e91c5090bd0748fe63"
 metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "b52df49a5172adfc8865a2992059d6228455ebc8c92d923f7cce119041df0d90"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "555c2ed7500d7deb9f0dbfbc6a597bfa76ae2a22ccdbe7ab3632cde4278169b4"
 metafile = true
 
 [[files]]
@@ -1037,7 +1057,7 @@ metafile = true
 
 [[files]]
 file = "mods/the-knocker.pw.toml"
-hash = "f4682194fe637749e462df51900753b56f5b55a6d0d4d2480223b81b00999eac"
+hash = "91ead9f5d02a597708847b79b8439fc35a02d670acba83bc12c5c97ef630fe11"
 metafile = true
 
 [[files]]
