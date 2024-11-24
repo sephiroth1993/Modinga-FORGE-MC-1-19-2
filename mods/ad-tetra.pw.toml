@@ -1,13 +1,13 @@
 name = "Ad Tetra!"
-filename = "adtetra-1.0.1.jar"
+filename = "adtetra-2.1.0 - 1.19.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "b59c59b33d34e383b2a9fc2a416c025815eabf3e"
+hash = "f6f8de2c1a2d5eb8cdb5abc52296c4bc8eef42cb"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4967242
+file-id = 5927599
 project-id = 827040
