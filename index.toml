@@ -667,7 +667,7 @@ metafile = true
 
 [[files]]
 file = "mods/craftpresence.pw.toml"
-hash = "4ebae376980fdaa47982add171226a1de464221d34c6c6df59ad0fb28e75595d"
+hash = "a70f6cfb9d594a6962eb093bac8c30625d87ae1c5187fcd911d18d25ceddc786"
 metafile = true
 
 [[files]]
@@ -1087,7 +1087,7 @@ metafile = true
 
 [[files]]
 file = "mods/unilib.pw.toml"
-hash = "c99e0db93630d4dc2823bf0d9f103a6386504adc30522a0e18e00c5a87c54770"
+hash = "0307d5b93b9dbc43d5ab1433a89258e88706cff585ffcddb3e773020bfe2fe8f"
 metafile = true
 
 [[files]]
@@ -1169,3 +1169,7 @@ metafile = true
 file = "resourcepacks/tissous-zombie-pack-optifine-1-7x-1-20.pw.toml"
 hash = "90f8121f26e2bb8eb6e057de315ba6527173d5452de9878791760df5a6305848"
 metafile = true
+
+[[files]]
+file = "updater.bat"
+hash = "e233b67c9b6ba09b6c606c16e8714eb47caae7f14592829a3ae43b3a47348019"
