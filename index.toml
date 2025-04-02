@@ -672,7 +672,7 @@ metafile = true
 
 [[files]]
 file = "mods/craftpresence.pw.toml"
-hash = "90b6b6b329530e73bf68a2c889d807c7cc944da76c8b885bfb34a41369f3b506"
+hash = "6ad3bc395107c2f5319fb3a2dbfa08ddaa5da89a5e23a17f6b10af77dfeb2913"
 metafile = true
 
 [[files]]
@@ -952,7 +952,7 @@ metafile = true
 
 [[files]]
 file = "mods/placebo.pw.toml"
-hash = "7a4539386e6bfb354bf15a310660972df62ecdc242204db2765be9935d52ced9"
+hash = "44be5b4e3516115e78d80e5ba5d888104bf6a0224df4f2dc186332597a66402a"
 metafile = true
 
 [[files]]
@@ -1022,7 +1022,7 @@ metafile = true
 
 [[files]]
 file = "mods/skin-layers-3d.pw.toml"
-hash = "1369b872b82ba6a721a1ea8fae4f699282c97eebe7e5a0b41cc4897f7225c45b"
+hash = "fefa9707c1eba7b60765170153f576c24b273a06d8e0cd62b50c9c58193b9d10"
 metafile = true
 
 [[files]]
