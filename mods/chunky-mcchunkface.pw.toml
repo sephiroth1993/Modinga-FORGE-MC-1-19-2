@@ -1,0 +1,13 @@
+name = "Chunky McChunkFace"
+filename = "ChunkyMcChunkFace-1.19.2-0.3.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "01a10b7b914d3889178aaac4cd7f7192ca10157c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4990095
+project-id = 863330

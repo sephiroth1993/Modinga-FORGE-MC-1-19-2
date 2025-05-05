@@ -1,13 +1,13 @@
 name = "UniLib"
-filename = "UniLib-1.0.5+1.19.2-forge.jar"
+filename = "UniLib-1.0.6+1.19.2-forge.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "8fe69bdd0955149a89f37fa8b1db6a232e2b1e94"
+hash = "646177e406a110ef42a1ed0b54053eb0fbc96711"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6087695
+file-id = 6448865
 project-id = 1056812
