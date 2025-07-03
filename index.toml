@@ -702,7 +702,7 @@ metafile = true
 
 [[files]]
 file = "mods/craftpresence.pw.toml"
-hash = "847990e64feffa8f247d40b6dba3131c4f4508d6a28b4e87339d58e25f47a590"
+hash = "53cbc5de0f16fd24472a772cf9dd94d7b171baa247234967ffafde7ba13f6e67"
 metafile = true
 
 [[files]]
@@ -912,7 +912,7 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-bridges.pw.toml"
-hash = "cf7f2de3b7bb200c1fd5b7ba8e087731f58b0e1230d603a8a5db68e04d46307b"
+hash = "ef893f06295a44fd72e669d39f0b738de6491272de98d890c8a2c7144149e6a3"
 metafile = true
 
 [[files]]
@@ -1082,7 +1082,7 @@ metafile = true
 
 [[files]]
 file = "mods/skin-layers-3d.pw.toml"
-hash = "fefa9707c1eba7b60765170153f576c24b273a06d8e0cd62b50c9c58193b9d10"
+hash = "004749077797ecfd2d75a052b47c43d8c769017e18f3cbdca1d8f4c497505641"
 metafile = true
 
 [[files]]
@@ -1192,7 +1192,7 @@ metafile = true
 
 [[files]]
 file = "mods/unilib.pw.toml"
-hash = "3e1cb85303ac13101cae4ea4fd9dcffd4ad78556c8b3b95da7b54f381261fba3"
+hash = "ab953f13443a8a55de207705e73be422c2c8b54a98508c5ad864ef7f41aa1043"
 metafile = true
 
 [[files]]
