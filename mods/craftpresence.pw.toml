@@ -1,13 +1,13 @@
 name = "CraftPresence"
-filename = "CraftPresence-2.6.1+1.19.2-forge.jar"
+filename = "CraftPresence-2.6.2+1.19.2-forge.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "1afab14286e188a6eac923d0ed9383bec0ca3c00"
+hash = "9c697f41e6f28bd9e2c7457f56b9eef5f5422fac"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6511282
+file-id = 6860315
 project-id = 297038
